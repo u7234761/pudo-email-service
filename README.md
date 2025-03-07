@@ -9,9 +9,9 @@ A simple REST API for sending password reset and account verification emails usi
 📝 Logging support using Winston
 ⚡ Easy to set up and deploy
 📦 Installation & Setup
-1️⃣ Clone the Repository
 
-git clone https://github.com/YOUR_GITHUB_USERNAME/pudo-email-service.git
+1️⃣ Clone the Repository
+git clone https://github.com/u7234761/pudo-email-service.git
 cd pudo-email-service
 
 2️⃣ Install Dependencies Run the Server
